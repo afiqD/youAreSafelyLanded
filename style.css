@@ -1,0 +1,158 @@
+.btn-outline-primary {
+    border-radius: 50px !important;
+}
+
+.shape-rounded {
+    border-radius: 10px !important;
+}
+
+.shape-circle {
+    border-radius: 50px !important;
+}
+
+.shape-square {
+    border-radius: 0px !important;
+}
+
+.style-outline,
+.style-solid {
+    border-width: 2px !important;
+}
+
+.follow {
+    background: #fff !important;
+}
+
+.follow:hover {
+    background: #727cf5 !important;
+    color: #fff !important
+}
+
+body {
+    background-image: url(asset/unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fff;
+}
+
+a.footer-text {
+    mix-blend-mode: exclusion;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal !important;
+}
+
+.invert {
+    color: #fff;
+    mix-blend-mode: exclusion;
+}
+
+.invert a {
+    color: #fff;
+    mix-blend-mode: exclusion;
+}
+
+.invert a:hover {
+    color: #fff;
+    mix-blend-mode: exclusion;
+}
+
+.page_speed_1076307100 {
+    padding: 20px;
+}
+
+.page_speed_1019943967 {
+    color: #000000;
+    word-wrap: break-word;
+    font-size: 22px !important;
+}
+
+.page_speed_1599115253 {
+    color: #166ADA
+}
+
+.page_speed_2064934859 {
+    color: #000000;
+    word-wrap: break-word
+}
+
+.page_speed_992678781 {
+    padding: 12px 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #000000;
+    border: 1px solid #000000;
+    background: #FFFFFF
+}
+
+.page_speed_233778628 {
+    padding: 12px 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    background: #000000
+}
+
+.page_speed_2015012316 {
+    padding: 12px 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    background: #060606
+}
+
+body div {
+    text-align: center;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body div.text-center {
+    width: 30%;
+    position: relative;
+    margin: 1rem auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+
+a:active {
+    text-decoration: none;
+}
+
+.photo {
+    width: 25%;
+    border: 4px solid ghostwhite;
+    border-radius: 50%;
+}
+
+form{
+    display: none;
+}
+
+p.invert{
+    display: none;
+}
+
